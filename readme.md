@@ -17,10 +17,10 @@ The goal is to explore how to load data, manipulate it with PySpark DataFrame AP
 
 ## 📂 Project Structure
 pyspark-learning/
-├── organizations-100.csv # Fictitious dataset with organizations info
-├── main.py # Main script with PySpark code
-└── README.md # Documentation
-└── requirements.txt
+- ├── organizations-100.csv # Fictitious dataset with organizations info
+- ├── main.py # Main script with PySpark code
+- └── README.md # Documentation
+- └── requirements.txt
 
 ---
 
@@ -42,4 +42,5 @@ python main.py
 
 ## 📜 License
 This project uses fictitious data created for learning purposes.
+
 No real company or organization data is included.
